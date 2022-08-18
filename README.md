@@ -19,3 +19,11 @@
 
 ## Chapter 2 Day 2 Quests
 
+**What are the 5 Cadence Programming Language Pillars?**
+
+Safety and Security, Clarity, Approachability, Developer Experience, Resource Oriented Programming
+
+**In your opinion, even without knowing anything about the Blockchain or coding, why could the 5 Pillars be useful (you don't have to answer this for #5)?**
+
+This foundation sets a great standard so that it encourages builders from all over to bring new ideas. Coding shouldn't be something that is gatekept by obscure syntax.
+
