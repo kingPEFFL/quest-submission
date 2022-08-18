@@ -17,7 +17,7 @@
   Scripts are used to view data that is already on the blockchain. No money needed for that piece
 
 
-## Chapter 2 Day 2 Quests
+## Chapter 1 Day 2 Quests
 
 **What are the 5 Cadence Programming Language Pillars?**
 
