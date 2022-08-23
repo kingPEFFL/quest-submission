@@ -38,6 +38,10 @@ pub contract JacobTucker {
     init() {
         self.is = "the best"
     }
-}```
+}
+```
 
-![image](https://user-images.githubusercontent.com/108757592/186100714-ff9fbe68-890c-48cd-bf2d-19d60a9dd3f9.png)
+![image](https://user-images.githubusercontent.com/108757592/186101548-8a2ec340-a698-4d06-8ef4-eb521930b2eb.png)
+
+
+
