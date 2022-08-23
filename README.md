@@ -27,3 +27,16 @@ Safety and Security, Clarity, Approachability, Developer Experience, Resource Or
 
 This foundation sets a great standard so that it encourages builders from all over to bring new ideas. Coding shouldn't be something that is gatekept by obscure syntax.
 
+
+## Chapter 2 Day 1 Quest
+
+pub contract JacobTucker {
+
+    pub let is: String
+
+    init() {
+        self.is = "the best"
+    }
+}
+
+![image](https://user-images.githubusercontent.com/108757592/186100714-ff9fbe68-890c-48cd-bf2d-19d60a9dd3f9.png)
